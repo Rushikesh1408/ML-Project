@@ -62,3 +62,8 @@ python first.py
 ```bash
 # Syntax: python first.py "path/to/image.jpg" [mode]
 python first.py "sample.jpg" p
+```
+## 🔮 Future Scope
+* **Real-time Video:** Integrate YOLOv11 for live webcam detection alongside the description.
+* **Voice Output:** Add `pyttsx3` text-to-speech so the AI can read the description aloud for visually impaired users.
+* **Web Interface:** Build a simple Gradio or Streamlit dashboard to run this in a browser.
