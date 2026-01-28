@@ -46,3 +46,16 @@ This project utilizes the **BLIP-2 (Bootstrapping Language-Image Pre-training)**
 ```bash
 git clone [https://github.com/your-username/DeepScene-AI.git](https://github.com/your-username/DeepScene-AI.git)
 cd DeepScene-AI
+## 🚀 How to Run
+
+You can run the program in two ways:
+
+### Method 1: Interactive Mode (Easiest)
+Simply run the script without any arguments. A window will pop up to help you.
+
+```bash
+python first.py
+
+### Method 2: Command Line (Fastest)
+# Syntax: python first.py "path/to/image.jpg" [mode]
+python first.py "C:\Images\mountain.jpg" p
