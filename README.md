@@ -61,4 +61,4 @@ python first.py
 ### Method 2: Command Line (Fastest)
 ```bash
 # Syntax: python first.py "path/to/image.jpg" [mode]
-python first.py "C:\Images\mountain.jpg" p
+python first.py "sample.jpg" p
