@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+.venv/
+venv/
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+# Ignore large model files if you downloaded them locally
+*.bin
+*.safetensors
