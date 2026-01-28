@@ -1,0 +1,17 @@
+# Core Machine Learning Framework (PyTorch)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hugging Face Ecosystem (For BLIP-2)
+transformers>=4.35.0
+accelerate>=0.25.0
+
+# Optimization & Quantization (Critical for 8-bit loading)
+bitsandbytes>=0.41.0
+scipy>=1.10.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Object Detection (Optional - if you upload the YOLO script later)
+ultralytics>=8.3.0
