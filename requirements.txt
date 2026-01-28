@@ -13,5 +13,3 @@ scipy>=1.10.0
 # Image Processing
 Pillow>=10.0.0
 
-# Object Detection (Optional - if you upload the YOLO script later)
-ultralytics>=8.3.0
