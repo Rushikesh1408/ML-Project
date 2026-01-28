@@ -57,7 +57,8 @@ Simply run the script without any arguments. A window will pop up to help you.
 
 ```bash
 python first.py
-
+```
 ### Method 2: Command Line (Fastest)
+```bash
 # Syntax: python first.py "path/to/image.jpg" [mode]
 python first.py "C:\Images\mountain.jpg" p
