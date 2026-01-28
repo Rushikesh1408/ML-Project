@@ -46,6 +46,8 @@ This project utilizes the **BLIP-2 (Bootstrapping Language-Image Pre-training)**
 ```bash
 git clone [https://github.com/your-username/DeepScene-AI.git](https://github.com/your-username/DeepScene-AI.git)
 cd DeepScene-AI
+
+```
 ## 🚀 How to Run
 
 You can run the program in two ways:
